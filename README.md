@@ -1,1 +1,1 @@
-# ruby-intermediate
+https://fitrisinta.github.io/electives-hw1/
